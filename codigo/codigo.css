@@ -3,7 +3,8 @@
 
 
 *{ max-width: 2560px;
-min-width: 375px;}
+min-width: 375px;
+margin: auto;}
 
 
 @font-face {
