@@ -16,6 +16,9 @@
 body{
 background-color: black;
 background-image: url("https://product-hub-prd.madeiramadeira.com.br/1180742/images/3523c149-254b-42ab-b07d-cf6f4e4b791149198594papeldeparedeanimaiscachorropetdivertido3mprdit9i3gxhjbw051791800x800.jpg");
+max-width: 2800px;
+    min-width: 300px;
+
 }
 
 main{
@@ -23,6 +26,8 @@ main{
     text-align: center;
     margin: auto;
     color: white;
+    max-width: 2800px;
+    min-width: 300px;
 
 }
 header{ 
